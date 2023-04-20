@@ -6,10 +6,10 @@ This is a type of machine learning where a model is trained on a labeled dataset
 Unsupervised Learning:  
 This is a type of machine learning where a model is trained on an unlabeled dataset, where the input data is not paired with any corresponding output or label.
 
-Reinforcement Learning:
+Reinforcement Learning:  
 This is a type of machine learning where an agent learns to behave in an environment by performing certain actions and receiving rewards or penalties for those actions.
 
-Neural Networks:
+Neural Networks:  
 These are a class of machine learning models inspired by the structure and function of the human brain, which can be used for tasks such as image and speech recognition.
 
 Deep Learning:  
